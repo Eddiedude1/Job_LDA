@@ -4,4 +4,4 @@
 
 Previous work before automating the data gathering.  Results from this project intended to achieve and exceed the results from my initial work (see link below). 
 <img width="1184" alt="screen shot 2018-07-02 at 1 34 45 pm" src="https://user-images.githubusercontent.com/7989686/42180476-11bcdb00-7dfd-11e8-8c20-1e1885199812.png">  
-https://github.com/Eddiedude1/DS_Jobs_Topic_Modeling
+https://github.com/Eddiedude1/DS_Jobs_Topic_Modeling`
